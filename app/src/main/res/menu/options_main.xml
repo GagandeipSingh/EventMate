@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/up_by_u"
+        android:title="@string/uploaded_by_you"/>
+    <item android:id="@+id/all_uploads"
+        android:title="@string/all_uploads"/>
+<item android:id="@+id/sort_asc"
+    android:title="@string/sort_by_newest_first"/>
+    <item android:id="@+id/sort_deadLine"
+        android:title="@string/sort_by_deadline"/>
+    <item android:id="@+id/sign_out"
+        android:title="@string/sign_out"/>
+    <item android:id="@+id/about"
+        android:title="@string/about"/>
+</menu>

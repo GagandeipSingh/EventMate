@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/sort_Asc"
+        android:title="@string/sort_by_newest_first"/>
+
+    <item android:id="@+id/sort_Desc"
+        android:title="@string/sort_by_oldest_first"/>
+
+    <item android:id="@+id/export_Excel"
+        android:title="@string/export_as_spreadsheet"/>
+
+</menu>

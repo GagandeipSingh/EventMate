@@ -75,3 +75,15 @@ Send messages to event organizers.
 -Reduced Administrative Burden: Automate tasks and reduce manual effort.
 
 By providing a comprehensive and user-friendly platform, the project empower organizers to effectively manage events and participants to easily discover and engage with them.
+
+![Screenshot 2024-11-12 204242](https://github.com/user-attachments/assets/ecd135ee-73ba-4d22-9ec6-4a5c23918842)
+
+![Screenshot 2024-11-12 204341](https://github.com/user-attachments/assets/03e65b99-0e80-4e18-bd47-b15ce3226cd0)
+
+![Screenshot 2024-11-12 204423](https://github.com/user-attachments/assets/53def3b8-46ed-441a-a584-ba913475017d)
+
+![Screenshot 2024-11-12 204444](https://github.com/user-attachments/assets/162f67a1-b4b4-440f-a82d-dabe77f620da)
+
+![Screenshot 2024-11-12 204500](https://github.com/user-attachments/assets/f7a835ad-4a8d-4db7-8d43-d771f94e33c8)
+
+![Screenshot 2024-11-12 204518](https://github.com/user-attachments/assets/fe926567-e647-48ce-91d3-f3280b5f052b)

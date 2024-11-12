@@ -60,11 +60,10 @@ The project aims to create a robust and user-friendly event management system de
 
 **Real-Time Communication:**
 
--Send messages to event organizers.
+Send messages to event organizers.
 -Receive replies and notifications.
 
 **Timely Updates and Notifications:**
-
 -Stay informed about event changes and announcements.
 -Receive reminders about deadlines and important dates.
 

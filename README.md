@@ -5,6 +5,15 @@ The project aims to create a robust and user-friendly event management system de
 
 ## Key Features and Benefits:
 
+**For Admin:**
+
+**Administrative Control:**
+
+-Admins have separate login access with exclusive controls.
+-Can add, edit, or delete unique codes assigned to organizers and participants based on department.
+-Has permission to edit or delete events and announcements added by any organizer.
+-Can perform all functions available to organizers except adding new content to the event system.
+
 **For Organizers:**
 
 **Centralized Event Management:**
